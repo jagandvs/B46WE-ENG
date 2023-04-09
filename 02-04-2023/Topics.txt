@@ -1,0 +1,5 @@
+-> spread and rest operator
+-> array and object destructure
+-> object property shorthand
+-> template literals
+-> Arrow functions.

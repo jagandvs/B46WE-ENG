@@ -1,0 +1,6 @@
+    -> Hoisting and scope
+    -> function return
+    -> Types of function
+
+    anonymous function
+    IIFE Immediate Invoke function execution.
