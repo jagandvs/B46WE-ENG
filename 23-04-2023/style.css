@@ -1,0 +1,91 @@
+/* .box1{
+    border : 2px solid red;
+    padding: 10px 20px;
+    margin : 10px; */
+
+    /* padding: 10px;
+    margin : 10px; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+/* }
+
+.box2{
+    border : 2px solid green; */
+    /* padding: 10px 20px 30px 40px; */
+    /* padding : 10px 20px 10px 20px; */
+    /* (top, right, bottom, left) */
+
+    /* padding: 10px 20px; */
+    /* padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 40px; */
+    /* (top-bottom, right-left) */
+    /* margin : 10px;
+    height : 250px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+} */
+
+/* Create a two buttons having text submit and cancel padding of  10px 20px background color #2350FC
+ and # E53D01 border raius of 5px and having margin of 10px*/
+
+ /* .main{
+    display: flex;
+    flex-flow: row wrap;
+ } */
+
+ /* create a cards of 6 having widht 200px height 250px content at the center apply flex warp and direction  */
+
+
+ /* .fixed{ */
+    /* position : fixed; */
+    /* bottom : 20px;
+    right : 20px; */
+ /* } */
+/* 
+ .sticky{
+    border: 1px solid green;
+    position : sticky;
+    top :0px;
+ } */
+
+ /* .relative{
+    position: relative;
+    border: 1px solid green;
+    height: 300px;
+    width: 300px;
+    top : 50px;
+
+ }
+
+ .absolute{
+    position: absolute;
+    top : 0;
+ } */
+
+ /* div{
+    color : red;
+ }
+
+ span{
+    color : green
+ }
+
+ div span{
+    color : inherit
+ } */
+
+ .gradient{
+    height: 200px;
+    width: 200px;
+    /* background-color: red; */
+    /* background-image: linear-gradient(180deg, #e02b20, #720462, blue); */
+    /* background-image: radial-gradient(circle,#e02b20, #720462, blue); */
+    /* background-image: conic-gradient(#e02b20 90deg, #720462 100deg, blue 180deg); */
+
+ }

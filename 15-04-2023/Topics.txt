@@ -1,0 +1,26 @@
+-> What is HTML
+-> Basic Tags(a, image, heading, p)
+-> HTML vs HTML5
+-> div vs span
+-> inline vs block elements
+-> HTML Forms
+-> Input elements and attributes
+-> Form submit
+
+HTML : Hyper Text Markup Language
+
+html5 new Tags
+
+// semantic tags.
+
+-> Audio
+-> Video
+-> header
+-> footer
+-> <mark>
+-> nav
+-> section
+-> aside
+-> article
+
+-> div is type container and it is a block level element

@@ -1,0 +1,13 @@
+-> What is css
+-> How to use css in html
+-> property & value
+-> class vs id
+-> use of important
+-> display property inline, block.
+
+
+CSS - Cascading Style Sheet
+
+-> Inline css
+-> Internal css
+-> External css

@@ -1,0 +1,19 @@
+-> Box Model
+-> Flex
+-> Position
+-> parent inherit
+-> gradient
+
+Box Model : padding, margin, border and content
+
+-> Position
+
+* static
+* fixed
+* sticky
+* relative
+* absolute
+
+linear-gradient
+radial gradient
+conic gradient
