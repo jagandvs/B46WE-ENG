@@ -1,0 +1,3 @@
+-> Bootstrap
+-> RWD (Responsive Web Design)
+-> Mobile First Approach

@@ -1,0 +1,35 @@
+.header-img{
+    height: 80vh;
+}
+
+section{
+    padding : 20px;
+}
+.about-section{
+    background-color: green;
+    color: white;
+    height: 30vh;
+}
+.about-section h2{
+    padding-bottom: 10px;
+}
+.about-section p a{
+    color : rgb(200, 192, 192)
+}
+
+.card i{
+    padding :20px;
+    font-size: 30px;
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    margin : 20px;
+}
+.card i:hover{
+    color: white;
+    background-color: green;
+}
+
+.card p{
+    text-align: justify;
+}

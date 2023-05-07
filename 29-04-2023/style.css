@@ -1,0 +1,113 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap'); */
+.overflowtext {
+  height: 200px;
+  width: 500px;
+  border: 2px solid green;
+  padding: 10px;
+  text-align: justify;
+  /* overflow: visible; */
+  /* overflow: scroll; */
+  /* overflow: hidden; */
+  /* overflow: auto; */
+  /* overflow-x: scroll;
+    overflow-y: scroll; */
+}
+
+/* div{
+    font-size: 30px;
+}
+span{
+    font-size: 0.5em;
+} */
+/* 
+html{
+    font-size: 20px;
+}
+
+
+div{
+    font-size: 10px;
+}
+
+p{
+    font-size: 2em; 
+    /* 10*2 = 20px; */
+/* }
+
+span{
+    font-size: 2rem;
+    2*20px = 40px
+}  */
+
+div {
+  /* font-size: 30px; */
+  /* font-size: 5vh;
+    font-size: 5vw; */
+  /* font-size: 50px; */
+  /* font-size: 15vmin;  */
+  /* It will stop increasing */
+  /* font-size: 5vmax; */
+  /* It will stop decreasing */
+}
+
+/* @media not|only mediatype and (expression) {
+    css-code
+} */
+/* 
+body {
+  background-color: red;
+}
+
+@media screen and (max-width: 480px) { (0-480px)
+  body {
+    background-color: green;
+  }
+}
+
+@media screen and (min-width:900px) { (900px- )
+    body{
+        background-color: yellow;
+    }
+} */
+
+*{
+    box-sizing: border-box;
+}
+
+
+.nav-bar{
+    background-color: brown;
+    padding : 14px 16px;
+}
+
+.nav-bar a{
+    color: white;
+    padding : 14px 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav-bar a:hover{
+    color: brown;
+    background-color: beige;
+}
+
+@media screen and (max-width : 600px) {
+    .nav-bar{
+        background-color: black;
+    }
+    
+    .nav-bar a{
+       display: block;
+        width: 100%;
+    }
+    
+    .nav-bar a:hover{
+        color: black;
+        background-color: beige;
+    }
+    .hideinmobile{
+        display: none;
+    }
+    
+}

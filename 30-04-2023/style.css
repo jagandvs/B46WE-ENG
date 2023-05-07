@@ -1,0 +1,22 @@
+body{
+    overflow-x: hidden;
+}
+.carousel-inner {
+    height: 80vh;
+}
+.aboutus{
+    background-color: #333333;
+    padding: 30px 40px;
+}
+
+.certification{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    padding: 30px 40px;
+}
+
+.form-section{
+    padding: 30px 40px;
+}
