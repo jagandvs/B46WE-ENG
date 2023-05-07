@@ -1,0 +1,8 @@
+-> Document
+-> createElement
+-> setAttributes
+-> getElementById
+-> getElementsByClassName
+-> QuerySelectors
+-> innerHTML vs innerText
+-> appendChild vs append
